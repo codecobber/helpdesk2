@@ -2,8 +2,8 @@
 
 
 
-body{ 
-    background-color: #0c4d78;  
+body{
+    background-color: #0c4d78;
     color:#444;
 }
 
@@ -253,7 +253,7 @@ span.statusColour{
     display: inline-block;
     margin: 1em 0;
     position: relative;
-    top: 18px;
+    top: -1px;
 }
 
 .tableClr tr:nth-child(even){background-color: #f2f2f2;}
